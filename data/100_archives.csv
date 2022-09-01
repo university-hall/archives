@@ -1,13 +1,21 @@
-uuid,chinese_name,english_name,year,type,location,quantity,remarks
-51f16fd2-e5b5-11ec-b2b0-0000000007e6,2022至2023年大學堂學生會年度計劃,,2022,book,,2,
-51f1ead4-e5b5-11ec-bcaa-a0999b044eaf,銅梯合照,,,photo,,3,
-51f1f880-e5b5-11ec-bcaa-a0999b044eaf,薄扶林村黑色硬卡紙裱相片,,,,,9,
-51f1feac-e5b5-11ec-8fbf-0000000007de,時政文章集,,2014,fileholder,,1,螢光綠色文件夾
-51f20d66-e5b5-11ec-8e0a-0000000007e6,Castlers’ Handbook (1975-76),,2022,book,,1,信封
-51f228aa-e5b5-11ec-bbcd-0000000007e5,,Ricci Newsletter (vol.9),2021,book,,6,
-51f2361a-e5b5-11ec-9ab8-0000000007e2,大學堂迎新二零一八迎新手冊,,2018,book,,5,
-51f2cd1e-e5b5-11ec-ab4f-0000000007e1,第一次傾莊,,2017,,,,
-51f31db4-e5b5-11ec-bcaa-a0999b044eaf,第三次傾莊,,,paper,,,
-51f334fc-e5b5-11ec-bcaa-a0999b044eaf,,Green Flag,,flag,,1,
-51f34b86-e5b5-11ec-8b81-0000000007de,,Touch Camp 2015 Detective Game,2014,paper,,2,
-51f3537e-e5b5-11ec-bcaa-a0999b044eaf,大學堂的歷史故事,,,paper,,7,
+100_archives.csv
+uuid,name,other_name,creation_year,transferral_year,type,source,transferral_method,Series,Deposit,quantity,remarks
+51f1f880-e5b5-11ec-bcaa-a0999b044eaf,薄扶林村相片,,2013,2022,photo,水禾田,\,Pokfulam Village,Exhibition,9.0,\
+51f3537e-e5b5-11ec-bcaa-a0999b044eaf,大學堂的歷史故事,,u.d.,2022,paper,\,\,Ying Sun,Other,7.0,\
+51f228aa-e5b5-11ec-bbcd-0000000007e5,Ricci Newsletter: Vol.8,,2021,2021,book,RHCAP,donation,Publications of Other Halls,Ricci,2,Donation by Nixon Leung from Ricci to UHall via Vincent; Extra copies displayed on open shelf
+,Ricci Newsletter: Vol.9,,2021,2021,book,RHCAP,donation,Publications of Other Halls,Ricci,6,Donation by Nixon Leung from Ricci to UHall via Vincent; Extra copies displayed on open shelf
+,Ricci Newsletter: Vol.10,,2022,2022,book,RHCAP,donation,Publications of Other Halls,Ricci,3,Donation by Nixon Leung from Ricci to UHall via Vincent; Extra copies displayed on open shelf
+51f2361a-e5b5-11ec-9ab8-0000000007e2,大學堂迎新二零一八迎新手冊,,2018,2022,book,UHSA,\,Open shelve area,\,5,Extra copies displayed on open shelf
+51f1ead4-e5b5-11ec-bcaa-a0999b044eaf,Touch Camp 2018: 銅梯合照,,2018,2022,photo,\,\,Touch Camp,\,1,\
+,Touch Camp 2018: 銅梯合照,,2018,2022,photo,\,\,Touch Camp,\,1,\
+,Touch Camp 2017: 銅梯合照,,2017,2022,photo,\,\,Touch Camp,\,1,\
+51f16fd2-e5b5-11ec-b2b0-0000000007e6,2022至2023年香港大學學生會大學堂宿生會年度計劃,,2022,2022,book,UHSA,\,Campaign Booklet,\,3,Extra copies displayed on open shelf
+51f1feac-e5b5-11ec-8fbf-0000000007de,時政文章集,,u.d.,2022,paper,\,\,Current Affairs,Commentary,1,螢光綠色文件夾
+51f2cd1e-e5b5-11ec-ab4f-0000000007e1,第一次傾莊,,2017,\,paper,\,\,Ying Sun,\,1,\
+51f20d66-e5b5-11ec-8e0a-0000000007e6,University Hall Students' Association Handbook: 1975-76,,1975,2022,book,Yan Chi Ming,donation,Castler Handbook Master Copy,\,1,enclosed in a envelope sent to tutor Vincent Chan from Yan Chi Ming
+51f31db4-e5b5-11ec-bcaa-a0999b044eaf,第三次傾莊,,2017,\,paper,\,\,Ying Sun,\,1,\
+51f334fc-e5b5-11ec-bcaa-a0999b044eaf,U-Hall Hall Flag,,1960s,2022,flag,\,\,\,\,1,special collection
+51f34b86-e5b5-11ec-8b81-0000000007de,Touch Camp 2015 Detective Game 人物關係,,2015,\,paper,\,\,Touch Camp,Touch Camp 2015,1,\
+,Touch Camp 2015 Detective Game 故事大綱,,2015,\,paper,\,\,Touch Camp,Touch Camp 2015,1,\
+,,,,,,,,,,,
+,,,,,,,,,,,
